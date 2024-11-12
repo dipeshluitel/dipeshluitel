@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm an undergraduate B.Sc. CSIT student and a tech
 
 I'm always eager to connect with fellow developers, learners, and creators! Feel free to reach out:
 
-- LinkedIn: [Dipesh Luitel]([https://www.linkedin.com/](https://www.linkedin.com/in/dipeshluitel/))
+- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/dipeshluitel/))
 - GitHub: [github.com/dipeshluitel](https://github.com/dipeshluitel)
 
 ---
