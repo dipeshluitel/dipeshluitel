@@ -24,8 +24,9 @@ A simple, clean task management web app built with **Django**.
 My personal portfolio site built with Django, still in development.  
 > Showcases my projects, contact details, and career journey.
 
-### 🎨 [Draw and Navigate](https://github.com/dipeshluitel/Blog)
-A creative Python Turtle Graphics project that allows users to draw and navigate interactively.
+### 🌐 [Personal Portfolio](https://github.com/dipeshluitel/personal_portfolio)
+My personal portfolio site built with Django, still in development.  
+> Showcases my projects, contact details, and career journey.
 
 ---
 
