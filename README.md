@@ -20,9 +20,8 @@ I love experimenting with new technologies and frameworks to turn ideas into rea
 A simple, clean task management web app built with **Django**.  
 > Hosted temporarily on PythonAnywhere — feel free to try it out!
 
-### 🌐 [Admin controlled Blog](https://github.com/dipeshluitel/personal_portfolio)
-My personal portfolio site built with Django, still in development.  
-> Showcases my projects, contact details, and career journey.
+### 🌐 [Admin controlled Blog](https://github.com/dipeshluitel/Blog)
+A Blog App where admin can post and User can interact with the post
 
 ### 🌐 [Personal Portfolio](https://github.com/dipeshluitel/personal_portfolio)
 My personal portfolio site built with Django, still in development.  
