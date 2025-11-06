@@ -16,7 +16,7 @@ I love experimenting with new technologies and frameworks to turn ideas into rea
 
 ## 🚀 Featured Projects
 
-### 📝 [To-Do App](https://dipeshluitel.pythonanywhere.com/)
+### 📝 [To-Do App](https://github.com/dipeshluitel/ToDoList)
 A simple, clean task management web app built with **Django**.  
 > Hosted temporarily on PythonAnywhere — feel free to try it out!
 
