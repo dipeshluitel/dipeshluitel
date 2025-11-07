@@ -8,9 +8,8 @@ I love experimenting with new technologies and frameworks to turn ideas into rea
 ## 🧠 About Me
 - 💻 Currently learning **API Integration** and **Full-Stack Development** using Django REST and modern frontend frameworks.  
 - 🎯 Focused on creating responsive, user-friendly, and efficient applications.  
-- 🌱 Exploring **React**, **Vue**, and **GSAP** to enhance UI/UX experiences.  
 - ⚙️ Backend frameworks: **Django**, **Django REST Framework**  
-- 🗃️ Databases: **SQLite**, **PostgreSQL**
+- 🗃️ Databases: **SQLite**, **MSSQL**, **MySQL**
 
 ---
 
