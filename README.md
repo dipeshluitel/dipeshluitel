@@ -1,6 +1,6 @@
-# 👨‍💻 Django Developer – Dipesh Luitel
+# 👨‍💻 – Dipesh Luitel
 
-Hi, I'm **Dipesh Luitel**, a Django Developer passionate about building dynamic, functional, and interactive web applications.  
+Hi, I'm **Dipesh Luitel**, I am passionate about building dynamic, functional, and interactive web applications. I also love searching patterns and mining data 
 I love experimenting with new technologies and frameworks to turn ideas into reality through clean, maintainable code.
 
 ---
