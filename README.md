@@ -15,6 +15,11 @@ I love experimenting with new technologies and frameworks to turn ideas into rea
 
 ## 🚀 Featured Projects
 
+### 📝 [E-commerce Sales Data Analysis (Ongoing)](https://github.com/dipeshluitel/Ecommerce-Sales-Trend-Analysis)
+This project focuses on analyzing an e-commerce dataset to uncover key business insights such as top-performing products, regional sales patterns, and monthly sales trends.  
+It demonstrates end-to-end data analysis — from cleaning and preprocessing to visualization — using Python’s data analytics libraries.
+> Ongoing Project
+
 ### 📝 [To-Do App](https://github.com/dipeshluitel/ToDoList)
 A simple, clean task management web app built with **Django**.  
 > Hosted temporarily on PythonAnywhere — feel free to try it out!
