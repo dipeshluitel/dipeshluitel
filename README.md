@@ -43,7 +43,6 @@ My personal portfolio site built with Django, still in development.
 
 ## 📫 Contact
 - 📧 **Email:** dipeshluitel40@gmail.com
-- 📄 **Resume:** [https://drive.google.com/file/d/1ibup7uXaXBdgmsr1e8jdCIaLGhboOxOF/view?usp=drive_link]
 
 ---
 
