@@ -44,8 +44,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipeshluitel&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshluitel&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=dipeshluitel&theme=github-dark" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
