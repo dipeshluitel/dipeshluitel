@@ -1,52 +1,57 @@
-# 👨‍💻 – Dipesh Luitel
+# 👋 Hi, I’m Dipesh Luitel
 
-Hi, I'm **Dipesh Luitel**, I am passionate about building dynamic, functional, and interactive web applications. I also love searching patterns and mining data 
-I love experimenting with new technologies and frameworks to turn ideas into reality through clean, maintainable code.
-
----
-
-## 🧠 About Me
-- 💻 Currently learning **API Integration** and **Full-Stack Development** using Django REST and modern frontend frameworks.  
-- 🎯 Focused on creating responsive, user-friendly, and efficient applications.  
-- ⚙️ Backend frameworks: **Django**, **Django REST Framework**  
-- 🗃️ Databases: **SQLite**, **MSSQL**, **MySQL**
+💻 **Backend & Database Developer** | 🐍 Python | 🌐 Django | 🗄️ MS SQL  
+🚀 Passionate about building scalable applications and solving real-world problems with clean, efficient code.
 
 ---
 
-## 🚀 Featured Projects
-
-### 📝 [E-commerce Sales Data Analysis (Ongoing)](https://github.com/dipeshluitel/Ecommerce-Sales-Trend-Analysis)
-This project focuses on analyzing an e-commerce dataset to uncover key business insights such as top-performing products, regional sales patterns, and monthly sales trends.  
-It demonstrates end-to-end data analysis — from cleaning and preprocessing to visualization — using Python’s data analytics libraries.
-> Ongoing Project
-
-### 📝 [To-Do App](https://github.com/dipeshluitel/ToDoList)
-A simple, clean task management web app built with **Django**.  
-> Hosted temporarily on PythonAnywhere — feel free to try it out!
-
-### 🌐 [Admin controlled Blog](https://github.com/dipeshluitel/Blog)
-A Blog App where admin can post and User can interact with the post
-
-### 🌐 [Personal Portfolio](https://github.com/dipeshluitel/personal_portfolio)
-My personal portfolio site built with Django, still in development.  
-> Showcases my projects, contact details, and career journey.
+## 🧑‍💻 About Me
+- 🔹 Backend-focused developer with strong fundamentals
+- 🔹 Experienced in **Python**, **Django**, and **MS SQL**
+- 🔹 Interested in system design, databases, and performance optimization
+- 🔹 Always learning and improving through real projects
 
 ---
 
-## 🧰 Frameworks & Tools
-- Django 
-- Bootstrap  
-- HTML, CSS, JavaScript  
+## 🛠️ Tech Stack
+**Languages & Frameworks**
+- Python  
+- Django  
+- SQL  
+
+**Databases**
+- MS SQL Server
+- MySql
+- PostgreSQL
+
+**Tools & Platforms**
 - Git & GitHub  
+- VS Code  
+- Linux / Windows
+- Jupyter Notebook
 
 ---
 
-## 📫 Contact
-- 📧 **Email:** dipeshluitel40@gmail.com
+## 📌 What I’m Working On
+- 🔧 Backend APIs with Django
+- 📊 Database-driven applications
+- ⚡ Writing optimized and maintainable code
+- 📚 Learning advanced backend concepts
 
 ---
 
-### ⭐ Show Some Love
-If you like my projects, don’t forget to **⭐ star the repositories** and connect with me on [LinkedIn](https://www.linkedin.com/in/dipeshluitel).
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipeshluitel&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshluitel&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: *https://www.linkedin.com/in/dipeshluitel/*
+- 📧 Email: *dipeshluitel40@gmail.com*
+
+---
+
+⭐ *“Code is not just about syntax, it’s about solving problems effectively.”*
