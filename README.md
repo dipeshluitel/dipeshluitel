@@ -22,6 +22,7 @@
 **Databases**
 - MS SQL Server
 - MySql
+- SQLite
 - PostgreSQL
 
 **Tools & Platforms**
