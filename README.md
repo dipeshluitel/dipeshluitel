@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Dipesh Luitel
 
-💻 **Backend & Database Developer** | 🐍 Python | 🌐 Django | 🗄️ MS SQL  
+💻 **Backend & Database Developer** | 🐍 Python | 🌐 Django | 🗄️ MS SQL  | 🗄️ PostgreSQL
 🚀 Passionate about building scalable applications and solving real-world problems with clean, efficient code.
 
 ---
 
 ## 🧑‍💻 About Me
 - 🔹 Backend-focused developer with strong fundamentals
-- 🔹 Experienced in **Python**, **Django**, and **MS SQL**
+- 🔹 Experienced in **Python**, **Django**, **MS SQL**  and **PostgreSQL**
 - 🔹 Interested in system design, databases, and performance optimization
 - 🔹 Always learning and improving through real projects
 
